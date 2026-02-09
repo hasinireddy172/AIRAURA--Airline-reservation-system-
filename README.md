@@ -1,2 +1,2 @@
-# AIRAURA--Airline-reservation-system-
-The Airline Reservation System is a user-friendly platform for easy flight booking and reservation management with real-time availability. It features the Air Aura Card loyalty program, offering discounts, priority boarding, and exclusive rewards for an enhanced travel experience.
+# AIRAURA-Airline-reservation-system-
+A basic HTML project that demonstrates an Airline Reservation System with a simple, user-friendly interface. It showcases flight search, booking details, and the Air Aura Card loyalty concept, focusing on structure, layout, and usability using core HTML elements.
